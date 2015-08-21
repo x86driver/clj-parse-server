@@ -1,6 +1,6 @@
 # clj-parse-server
 
-Since Parse SDK is open source, this project implements a simple server, if you want build your own parse server, you can try it.
+Since Parse SDK is open source, this project implements a simple server, you can try to build your own parse server.
 
 ## Prerequisites
 
