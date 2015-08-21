@@ -6,9 +6,7 @@ Since Parse SDK is open source, this project implements a simple server, you can
 
 1. **Install Leiningen**
 
-    You will need [Leiningen][1] 2.0 or above installed.
-
-[1]: https://github.com/technomancy/leiningen
+    You will need [Leiningen](https://github.com/technomancy/leiningen) 2.0 or above installed.
 
 2. **Install MongoDB server**
 
