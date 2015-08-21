@@ -73,4 +73,6 @@ See ```src/clj_parse_server/routes/api.clj``` most of important code started fro
 
 Eclipse Public License, Version 1.0 (EPL-1.0)
 
+[![Analytics](https://ga-beacon.appspot.com/UA-66606162-1/clj-parse-server/readme)](https://github.com/igrigorik/ga-beacon)
+
 Copyright © 2015 doremi
