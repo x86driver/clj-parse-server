@@ -49,7 +49,7 @@ Since Parse SDK is open source, this project implements a simple server, you can
 
 Currently just support simple PFObject, PFQuery, see examples/UnitTest.m for more details.
 
-Warning: No authority for incoming HTTP connections, be ware of any malicious connections.
+Warning: No authority for incoming HTTP connections, be aware of any malicious connections.
 
 
 ## How to trace this project
